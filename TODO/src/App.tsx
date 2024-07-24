@@ -24,6 +24,7 @@ const Container = styled.div`
 	flex-direction: column;
 	align-items: center;
 	z-index: 10;
+	min-height: 250px;
 `;
 
 export default App;
